@@ -8,7 +8,7 @@ a {
     color: #fff;
 }
 body {
-  background-color: #5d6b80;
+  background-color: #80B3FF;
   font-family: "Poppins", sans-serif;
   display: flex;
   justify-content: center;
@@ -34,7 +34,7 @@ body {
   margin: auto;
   margin-top: 30px;
   background-color: rgba(249, 249, 249, 0.444);
-  border: 2px solid #370606;
+  border: 2px solid #111;
   box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.1);
   padding: 20px 40px;
   border-radius: 20px;
